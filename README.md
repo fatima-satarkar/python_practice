@@ -9,3 +9,8 @@ Topics covered:
 - Pattern Printing
 - Beginner Python Programs
 - Problem Solving Practice
+- While Loops
+- Number Programs using while loop
+- Pattern Printing using while loop
+- ATM Menu Program
+- Number Guessing Game
