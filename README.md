@@ -14,3 +14,4 @@ Topics covered:
 - Pattern Printing using while loop
 - ATM Menu Program
 - Number Guessing Game
+- List Comprehension Practice
