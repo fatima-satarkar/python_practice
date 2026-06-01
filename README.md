@@ -14,4 +14,5 @@ Topics covered:
 - Pattern Printing using while loop
 - ATM Menu Program
 - Number Guessing Game
+- Solved 10 Python break statement exercises to practice loop control and conditional termination.
 - List Comprehension Practice
