@@ -17,3 +17,5 @@ Topics covered:
 - Solved 10 Python break statement exercises to practice loop control and conditional termination.
 - List Comprehension Practice
 -Python practice programs demonstrating the use of the continue statement in loops. 🚀
+- Python practice programs focused on creating and calling simple functions.
+- 
