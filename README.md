@@ -18,4 +18,4 @@ Topics covered:
 - List Comprehension Practice
 -Python practice programs demonstrating the use of the continue statement in loops. 🚀
 - Python practice programs focused on creating and calling simple functions.
-- 
+- Python practice exercises on functions with arguments. 🚀
