@@ -19,3 +19,4 @@ Topics covered:
 -Python practice programs demonstrating the use of the continue statement in loops. 🚀
 - Python practice programs focused on creating and calling simple functions.
 - Python practice exercises on functions with arguments. 🚀
+-This file contains practice exercises and examples on keyword arguments in Python functions.
